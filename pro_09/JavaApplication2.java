@@ -66,4 +66,6 @@ public class JavaApplication2 {
 -----> Running Process :
 
     javac -cp ".;postgresql-42.7.14.jar" JavaApplication2.java
+    java -cp ".;postgresql-42.7.14.jar" JavaApplication2
+
     
